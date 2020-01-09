@@ -54,7 +54,7 @@ namespace MeliGestionOperativaBasicaTest
             }
         }
 
-        public static async Task GetNameOfCategory(SellerItem sellerItem)
+        public static async Task SetNameOfCategory(SellerItem sellerItem)
         {
             var uriCategoryNameComplete = new Uri(urlCategoryName + sellerItem.CategoryId);
             var response = await client.GetAsync(uriCategoryNameComplete);
@@ -71,7 +71,7 @@ namespace MeliGestionOperativaBasicaTest
             {
                 var sellerItems = await GetListOfItemsFromSeller(sellerId);
 
-                sellerItems.ForEach(item => tasks.Add(GetNameOfCategory(item)));
+                sellerItems.ForEach(item => tasks.Add(SetNameOfCategory(item)));
                 Task task = Task.WhenAll(tasks.ToArray());
                 task.Wait();
 
