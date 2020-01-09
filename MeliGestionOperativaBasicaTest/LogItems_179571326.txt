@@ -1,0 +1,50 @@
+item: MLA636238020, title: Impresora Laser Lexmark Mb2338adw Wi Fi Fotocopiadora Mx317, category_id: MLA1676, category_name: Impresoras
+item: MLA609116302, title: Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer, category_id: MLA1720, category_name: UPS
+item: MLA814430567, title: Notebook Dell Inspiron I7 1tb 8g 15.6 Ubuntu Ati Gamer, category_id: MLA1652, category_name: Notebooks
+item: MLA812460317, title: Notebook Laptop Dell Inspiron 3481 I3 8gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Ram, category_id: MLA1652, category_name: Notebooks
+item: MLA814005966, title: Notebook Dell Inspiron I7 1tb + 480ssd 16gb 15.6 Ubuntu Ati, category_id: MLA1652, category_name: Notebooks
+item: MLA814166024, title: Notebook Dell Inspiron I7 256ssd 8gb 15.6 W10 Gforce Oferta, category_id: MLA1652, category_name: Notebooks
+item: MLA701426348, title: Notebook Laptop I3 Dell Inspiron 8gb 1tb 14  Win 10 Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Gamer, category_id: MLA1652, category_name: Notebooks
+item: MLA799461485, title: Notebook Dell Inspiron I7 256ssd + 1tb 16g 15.6 Ubu Gf Ram, category_id: MLA1652, category_name: Notebooks
+item: MLA814430760, title: Notebook Dell Inspiron I7 256ssd 8g 15.6 W10 Gf Ram Cuotas, category_id: MLA1652, category_name: Notebooks
+item: MLA609714710, title: Ups Apc 900va Back-ups 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial 2años Br900 Para Tv, Play, Pc, category_id: MLA1720, category_name: UPS
+item: MLA815159019, title: Notebook Dell Inspiron I7 256ssd 8g 15,6 Ubu Gforce Gamer, category_id: MLA1652, category_name: Notebooks
+item: MLA663219035, title: Notebook Laptop Dell Inspiron I5 8g 1tb Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Oferta, category_id: MLA1652, category_name: Notebooks
+item: MLA609550688, title: Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años, category_id: MLA1720, category_name: UPS
+item: MLA724377042, title: Servidor Poweredge Dell T30 Intel Xeon E3-1225v5 8gb 1tb Hd Ideal Para Empresa Con Garantia Oficial - Factura A B, category_id: MLA1649, category_name: PC
+item: MLA673439018, title: Notebook Laptop Dell Inspiron I3 8gb 1tb 15,6 Fhd Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B, category_id: MLA1652, category_name: Notebooks
+item: MLA754985680, title: Notebook Dell Inspiron I7 1tb 8gb 15.6 Ubuntu Gamer Cuotas, category_id: MLA1652, category_name: Notebooks
+item: MLA723727507, title: Notebook Dell I3 7020u 8gb 1tb + Ssd 480gb Win10 En Cuotas, category_id: MLA1652, category_name: Notebooks
+item: MLA812466999, title: Notebook Laptop Dell Inspiron I7 10g 16g 256ssd + 1t W10 Gf , category_id: MLA1652, category_name: Notebooks
+item: MLA677347584, title: Notebook Dell Inspiron I3 8gb 1tb 14 Win 10 Teclado Con Ñ Garantia De Tienda Oficial - Factura A Y B Ram, category_id: MLA1652, category_name: Notebooks
+item: MLA636240066, title: Impresora Multifuncion Láser Lexmark Mb2546adwe Rempl. Mx517, category_id: MLA1676, category_name: Impresoras
+item: MLA740963609, title: Router Linksys Ea8300 Tri Band Wifi Ac2200 Mu-mino, category_id: MLA430901, category_name: Routers
+item: MLA795525213, title: Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años, category_id: MLA1720, category_name: UPS
+item: MLA640303035, title: Ups Apc Br1500g 1500va Estabilizador  Gtia 2 Años Br1500g-ar, category_id: MLA1720, category_name: UPS
+item: MLA677346308, title: Notebook Laptop Dell Inspiron I3 8gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Ram, category_id: MLA1652, category_name: Notebooks
+item: MLA614270244, title: Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años, category_id: MLA1720, category_name: UPS
+item: MLA745149901, title: Servidor Poweredge Dell T30 Xeon E3 16gb 1tb Free Dos, category_id: MLA1649, category_name: PC
+item: MLA739439413, title: Notebook Dell Inspiron I7 16gb 1tb + 480ssd 15.6 Ubu Ati Ram, category_id: MLA1652, category_name: Notebooks
+item: MLA681788699, title: Notebook Laptop Dell Inspiron I5 8g 1tb Win 10 Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Oferta, category_id: MLA1652, category_name: Notebooks
+item: MLA619999038, title: Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia, category_id: MLA1720, category_name: UPS
+item: MLA680918722, title: Notebook Dell Inspiron I5 16gb 256ssd Win 10 Gforce Oferta, category_id: MLA1652, category_name: Notebooks
+item: MLA707866748, title: Notebook Dell Inspiron I7 1tb 240ssd 32g 15.6 Ubuntu Ati, category_id: MLA1652, category_name: Notebooks
+item: MLA685442543, title: Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24), category_id: MLA1708, category_name: Switches
+item: MLA732866335, title: Licencia Windows 10 Home 64bits Original Coem Oferta - Actualiza Tu Equipo - Ideal Para Hogar, category_id: MLA1737, category_name: Sistemas Operativos
+item: MLA673439392, title: Notebook Laptop Dell Inspiron I3 4gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B, category_id: MLA1652, category_name: Notebooks
+item: MLA799470975, title: Joystick Control Xbox One S Wireless + Adaptador Pc  Xbox Entrada 3.5 Mando, category_id: MLA121995, category_name: Joysticks
+item: MLA703470125, title: Notebook Dell Inspiron I7 1tb + 480ssd 32gb 15.6 Ubuntu Ati, category_id: MLA1652, category_name: Notebooks
+item: MLA796336202, title: Notebook Dell Inspiron 3581 I3 8gb 1tb 15,6 Fhd Ubuntu Ram - Ahora En Cuotas Sin Interes, category_id: MLA1652, category_name: Notebooks
+item: MLA639967459, title: Impresora Multifuncion Láser Lexmark Mb2546adwe Duplex Mx517, category_id: MLA1676, category_name: Impresoras
+item: MLA799468919, title: Joystick Control De Xbox One S Microsoft Original Negro Con Entrada 3.5 Oferta - Compatible Con Pc - Garantía Oficial, category_id: MLA121995, category_name: Joysticks
+item: MLA685428555, title: Switch Cisco 16 Puertos Port 10/100/1000 Rack (ex Sg100-16) Para Hogar Y Empresa - Garantia Oficial - Factura A Y B, category_id: MLA1708, category_name: Switches
+item: MLA818935719, title: Notebook Dell Inspiron 3581 I3 12gb 1tb 15,6 Fhd Ubuntu Ram, category_id: MLA1652, category_name: Notebooks
+item: MLA663208480, title: Notebook Laptop Dell Inspiron I5 16g 256ssd Ubuntu Ram, category_id: MLA1652, category_name: Notebooks
+item: MLA696009826, title: Ups Apc 1000va Online Tower Gtia 2 Años, category_id: MLA1720, category_name: UPS
+item: MLA723738730, title: Impresora Laser Lexmark Mb2442adwe Wifi Copia Simil Mx417, category_id: MLA1676, category_name: Impresoras
+item: MLA605210063, title: Ups Apc Surt1000xli 1000va Opcional Rackeable 2u Gtia 2 Años, category_id: MLA1720, category_name: UPS
+item: MLA701543192, title: Servidor Poweredge Dell T30 Xeon E3-1225v5 16gb 1tb Oferta, category_id: MLA1649, category_name: PC
+item: MLA748739174, title: Router Cisco Rv042 Dual Gigabit Wan 50vpn Rv042g 4 Port, category_id: MLA430901, category_name: Routers
+item: MLA669432624, title: Servidor Poweredge Dell Xeon E3-1225v5 8gb 1tb Hd Oferta Ideal Para Pyme Con Garantia Oficial - Factura A B, category_id: MLA1649, category_name: PC
+item: MLA754653793, title: Servidor Poweredge Dell T30 Xeon E3 8gb 1tb - Ahora 12 Y 18, category_id: MLA1649, category_name: PC
+item: MLA685442693, title: Switch Cisco 24 Puertos Gigabit Rack 10/100/1000, category_id: MLA1708, category_name: Switches
